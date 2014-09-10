@@ -21,7 +21,8 @@
     ]
   },
   "source_files": [
-    "CocoaLibPodTest/BLR/*.{h,m}"
+    "CocoaLibPodTest/*.{h,m}",
+    "CocoaLibPodTest/CocoaLibPodTest/*.{h,m}"
   ],
   "requires_arc": true
 }
